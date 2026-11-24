@@ -9,8 +9,8 @@
   ],
   "includes": [
     "/content/saharan/frescopa-20260521-151242/",
-    "/content/forms/af/",
-    "/content/dam/formsanddocuments/",
+    "/content/forms/af/formtest/",
+    "/content/dam/formsanddocuments/formtest/",
     "/content/dam/saharan/frescopa-20260521-151242/"
   ]
 }
